@@ -8,7 +8,8 @@ def main():
   # conditional flow uses if, elif, else  
 
   # conditional statements let you use "a if C else b"
-  
+  if(x < y):
+    print ("This is OK!!")
 
 if __name__ == "__main__":
   main()

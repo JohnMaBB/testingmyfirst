@@ -3,7 +3,7 @@
 #
 
 def main():
-  x, y = 100, 100
+  x, y = 100, 100   
   
   # conditional flow uses if, elif, else  
   if(x < y):
